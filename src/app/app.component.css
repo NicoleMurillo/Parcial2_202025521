@@ -1,0 +1,36 @@
+.img-maravillas{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: auto;
+  border: 2rem solid rgb(236, 236, 236);
+}
+
+.mini-padding{
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.margin-left{
+  margin-left: 4rem;
+  font-weight: bold;
+  font-size:xx-large;
+  vertical-align: middle;
+}
+
+.margin-top{
+  margin-top: 2rem;
+}
+
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.margin-text{
+  margin-top: 3.5rem;
+}
